@@ -1,5 +1,6 @@
 # pwrfilt60
 A MATLAB program to remove power frequency interference noise at 60 Hz
+使用MATLAB从信号中去除60Hz工频干扰噪声（期末大作业）
 
 ## 题目 2：从信号中去除60Hz工频干扰噪声
 一些西方国家的交流电频率为 60Hz（中国 50Hz）。这个频率（60Hz 电力线噪声）经常干扰各种设备的测量。现假设存在 60Hz 电力线噪声，某模拟仪器输入端的开环电压数据文件是 voltagetestdata60hz.mat（该文件在作业的压缩包文件夹中），电压采样频率可取 1kHz。
